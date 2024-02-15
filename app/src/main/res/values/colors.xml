@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="random_color_1">#FF9E80</color> <!-- Coral -->
+    <color name="random_color_2">#ABD1E4</color> <!-- Sky Blue -->
+    <color name="random_color_3">#F1E39A</color> <!-- Gold -->
+    <color name="random_color_4">#BEEC8A</color> <!-- Dark Orchid -->
+    <color name="random_color_5">#B388FF</color> <!-- Lime -->
+</resources>
